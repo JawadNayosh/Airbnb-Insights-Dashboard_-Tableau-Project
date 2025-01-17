@@ -7,24 +7,24 @@ This Tableau project visualizes insights from the 2016 public Airbnb listings da
 
 # Insights and Findings:
 
-# Price Distribution by ZIP Code:
+## Price Distribution by ZIP Code:
 The ZIP code 98134 has the highest average price among all ZIP codes in the dataset.
 ZIP codes like 98101, 98109, and 98121 follow closely, with moderately high average prices.
 Some ZIP codes, such as 98107 and 98133, show comparatively lower average prices, indicating potential affordability.
 
-# Price per ZIP Code (Map View):
+## Price per ZIP Code (Map View):
 The map highlights the distribution of prices geographically, with darker shades representing higher average prices.
 ZIP codes 98134, 98119, and 98102 stand out with higher average prices, potentially due to their proximity to popular areas or higher demand.
 
-# Revenue Trends:
+## Revenue Trends:
 Revenue appears stable throughout the year, with peaks in specific months (e.g., late summer and early fall).
 The overall revenue shows consistency, suggesting a steady demand for Airbnb listings in the area during 2016.
 
-# Bedroom Listing Count:
+## Bedroom Listing Count:
 One-bedroom listings dominate the dataset, suggesting they are the most common type of Airbnb property.
 The distribution drops significantly for listings with more than two bedrooms.
 
-# Average Price by Bedroom Count:
+## Average Price by Bedroom Count:
 As expected, the average price increases with the number of bedrooms:
 One-bedroom listings: $96.2
 Two-bedroom listings: $175.4
@@ -33,16 +33,15 @@ This trend highlights that larger properties tend to command higher prices, like
 
 # Observations and Recommendations:
 
-# Price Trends:
+## Price Trends:
 Hosts in lower-priced ZIP codes may consider enhancing their listings (e.g., better amenities, professional photos) to compete with higher-priced areas.
 ZIP codes with higher prices may face seasonal fluctuations and could benefit from dynamic pricing strategies.
 
-# Revenue Growth:
+## Revenue Growth:
 While revenue is consistent, strategies like promotional offers during off-peak months or targeted advertising for high-demand seasons could further boost revenues.
 
-# Bedroom Count:
+## Bedroom Count:
 The dominance of one-bedroom listings aligns with urban rental patterns, where solo travelers or couples often prefer smaller spaces. However, expanding the availability of multi-bedroom options could cater to families or larger groups.
 
-
-# Geographic Focus:
+## Geographic Focus:
 ZIP codes with moderate average prices could be ideal for budget-conscious travelers, while high-priced areas might appeal to premium audiences.
