@@ -3,7 +3,7 @@
 # Project Summary:
 This Tableau project visualizes insights from the 2016 public Airbnb listings dataset. This dataset provides information on Airbnb properties, including prices, revenue trends, and bedroom details segmented by geographic areas (ZIP codes). The dashboard focuses on key metrics such as average price by ZIP code, revenue trends over a calendar year, bedroom count distribution, and average price per bedroom.
 # Here is a link to the project: 
-[https://haproxy-traffic-splitter/views/AirBnBFullProject_17371314798000/Dashboard1?:language=en-US&publish=yes&:sid=9182E2249F244F66980A84C08315FF8E-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link](https://haproxy-traffic-splitter/views/AirBnBFullProject_17371314798000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[https://haproxy-traffic-splitter/views/AirBnBFullProject_17371314798000/Dashboard1?:language=en-US&publish=yes&:sid=9182E2249F244F66980A84C08315FF8E-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link](https://haproxy-traffic-splitter/views/AirBnBFullProject_17371314798000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://haproxy-traffic-splitter/views/AirBnBFullProject_17371314798000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="874" alt="Image" src="https://github.com/user-attachments/assets/71aa26af-122c-4c9e-b803-f81d40998ccf" />
 
